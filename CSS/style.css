@@ -76,7 +76,7 @@ li{
 	-webkit-transform:translateZ(50px);
 }
 .maxbox li:nth-child(2){
-	background: url(../img/2.jpeg) no-repeat 0 0;
+	background: url(../img/3.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateX(-90deg) translateZ(50px);
 }
 .maxbox li:nth-child(3){
