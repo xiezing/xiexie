@@ -49,51 +49,51 @@ li{
 	top:0;
 }
 .minbox li:nth-child(1){
-	background: url(../img/01.jpg) no-repeat 0 0;
+	background: url(../img/01.jpeg) no-repeat 0 0;
 	-webkit-transform:translateZ(50px);
 }
 .minbox li:nth-child(2){
-	background: url(../img/02.jpg) no-repeat 0 0;
+	background: url(../img/02.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateX(180deg) translateZ(50px);
 }
 .minbox li:nth-child(3){
-	background: url(../img/03.jpg) no-repeat 0 0;
+	background: url(../img/03.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateX(-90deg) translateZ(50px);
 }
 .minbox li:nth-child(4){
-	background: url(../img/04.jpg) no-repeat 0 0;
+	background: url(../img/04.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateX(90deg) translateZ(50px);
 }
 .minbox li:nth-child(5){
-	background: url(../img/05.jpg) no-repeat 0 0;
+	background: url(../img/05.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateY(-90deg) translateZ(50px);
 }
 .minbox li:nth-child(6){
-	background: url(../img/06.jpg) no-repeat 0 0;
+	background: url(../img/06.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateY(90deg) translateZ(50px);
 }
 .maxbox li:nth-child(1){
-	background: url(../img/1.jpg) no-repeat 0 0;
+	background: url(../img/1.jpeg) no-repeat 0 0;
 	-webkit-transform:translateZ(50px);
 }
 .maxbox li:nth-child(2){
-	background: url(../img/2.jpg) no-repeat 0 0;
+	background: url(../img/2.jpeg) no-repeat 0 0;
 	-webkit-transform:translateZ(50px);
 }
 .maxbox li:nth-child(3){
-	background: url(../img/3.jpg) no-repeat 0 0;
+	background: url(../img/3.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateX(-90deg) translateZ(50px);
 }
 .maxbox li:nth-child(4){
-	background: url(../img/4.jpg) no-repeat 0 0;
+	background: url(../img/4.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateX(90deg) translateZ(50px);
 }
 .maxbox li:nth-child(5){
-	background: url(../img/5.jpg) no-repeat 0 0;
+	background: url(../img/5.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateY(-90deg) translateZ(50px);
 }
 .maxbox li:nth-child(6){
-	background: url(../img/6.jpg) no-repeat 0 0;
+	background: url(../img/6.jpeg) no-repeat 0 0;
 	-webkit-transform:rotateY(90deg) translateZ(50px);
 }
 .maxbox{
